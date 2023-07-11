@@ -19,6 +19,6 @@ CryptoGraph is a powerful React-based website that offers users detailed insight
 ## Dependencies
 CryptoGraph relies on the following dependencies:
 
-*React: JavaScript library for building user interfaces
+*React: JavaScript library for building user interfaces\\
 *Chart.js: JavaScript library for creating interactive charts and graphs
 Other dependencies listed in the package.json file
