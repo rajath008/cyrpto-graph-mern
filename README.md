@@ -9,7 +9,7 @@ CryptoGraph is a powerful React-based website that offers users detailed insight
 
 ## An Overview : 
 
-![image](https://github.com/rajath008/cyrpto-graph-mern/assets/106469287/7d12c2b1-7c0c-490b-90f1-e0e08e48385a)
+![image](https://github.com/rajath008/cyrpto-graph-mern/assets/106469287/54999112-80cd-43d2-bd98-2fed7a4b043e)
 
 
 ![image](https://github.com/rajath008/cyrpto-graph-mern/assets/106469287/0acea185-2b24-45bb-a09b-5bd13567b1d0)
